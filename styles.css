@@ -5,7 +5,24 @@
 }
 h1{
     background-color: aliceblue;
+    text-align: center;
+
 }
 p{
     background-color: aqua;
+   
+    display: inline-block;
+    text-align: center;
+}
+.eso{
+    background-color: bisque;
+    padding: 1rem;
+    border-bottom: 5rem;
+    margin: 13px;
+    display: inline-block;
+    position: relative;
+
+}
+.eso2{
+    left: 300px;
 }
